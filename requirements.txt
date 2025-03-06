@@ -1,8 +1,8 @@
-streamlit
-pillow
-numpy
-torch
-torchvision
-tensorflow
-doctr[torch]
-opencv-python-headless
+streamlit==1.32.2
+python-doctr[torch]==0.8.1
+pdf2image==1.17.0
+pillow==10.2.0
+numpy==1.26.4
+torch==2.3.0 --extra-index-url https://download.pytorch.org/whl/cpu
+torchvision==0.18.0 --extra-index-url https://download.pytorch.org/whl/cpu
+opencv-python-headless==4.9.0.80
