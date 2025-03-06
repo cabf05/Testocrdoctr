@@ -1,6 +1,8 @@
 streamlit
-python-doctr[torch]
+pillow
+numpy
 torch
 torchvision
-Pillow
-numpy
+tensorflow
+doctr[torch]
+opencv-python-headless
